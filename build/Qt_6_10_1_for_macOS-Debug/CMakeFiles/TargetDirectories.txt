@@ -1,0 +1,3 @@
+/Users/andreirodkov/Downloads/source-12995-f9ce45/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/hello_world.dir
+/Users/andreirodkov/Downloads/source-12995-f9ce45/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/andreirodkov/Downloads/source-12995-f9ce45/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
