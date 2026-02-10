@@ -1,16 +1,19 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.5)
 
-project(01.hello_world)
+project(03.homework)
 
-add_executable(hello_world 
-    hello_world.cpp
-    example.cpp
-    example.h
-    move_me_out.h
-    move_me_out.cpp
-)
 
-set_target_properties(hello_world PROPERTIES
-    CXX_STANDARD 17
-    CXX_STANDARD_REQUIRED ON
+add_executable(
+        main
+        main.cpp
+        random_value.h
+        random_value.cpp
+        check_value.h
+        check_value.cpp
+        high_scores.h
+        high_scores.cpp
+        # argument.cpp
+        # argument.h
+
+
 )
