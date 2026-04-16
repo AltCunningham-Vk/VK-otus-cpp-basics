@@ -1,15 +1,9 @@
 # VK-otus-cpp-basics
 
-## Второе задание.
+## Четверто задание.
 
 
-Использовался комплиятор Glang. 
+Использовался комплиятор MinGW. 
 
 Сам IDE - QtCreator. 
 
-Вот ответ:
-```cpp
-Hello, World!
-Hello from example function!
-This function should be located in the separated source file
-```
